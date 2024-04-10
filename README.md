@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luciana</h1>
-<img align="center" src="https://cdn.pixabay.com/photo/2024/01/24/04/37/ai-generated-8528751_1280.jpg" alt="astronaut" heigth="300px" width="250px"/>
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2024/01/24/04/37/ai-generated-8528751_1280.jpg" alt="astronaut" height="300px" width="250px" />
+</p>
+
 <h3 align="center">Una amante de las nuevas tecnologías, Frontend y en el camino para Fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvero21&label=Profile%20views&color=0e75b6&style=flat" alt="luvero21" /> </p>
