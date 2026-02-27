@@ -12,7 +12,7 @@
 
 - 💬 Podes preguntarme sobre **Html, Css, Python**
 
-- 📫 Podes contactarme a **luciana_lr@hotmail.com**
+- 📫 Podes contactarme a **lucianareales.lr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
